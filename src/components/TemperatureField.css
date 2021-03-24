@@ -1,0 +1,10 @@
+.temperature-field-wrapper {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  
+  .temperature-label {
+    padding-left: 5px;
+    font-size: .8rem;
+  }

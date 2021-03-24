@@ -1,0 +1,8 @@
+.temperature-wrapper {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 250px;
+    padding: 5px 7px;
+    box-shadow: 0 3px 7px rgba(0, 0, 0, 0.3);
+}
